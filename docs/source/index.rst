@@ -1,4 +1,4 @@
-Welcome to ReCert's documentation!
+Welcome to ReCert - A Prosumer-driven Solution to BCTE
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
